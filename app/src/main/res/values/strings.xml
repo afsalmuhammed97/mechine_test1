@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MechinTestUi</string>
+    <string name="welcome">Welcome!</string>
+    <string name="marcosa">Marcos sa\'</string>
+    <string name="edit">Edit</string>
+    <string name="name1">Chioke Chinasa</string>
+    <string name="school">10 th Ajman Modern School</string>
+    <string name="dat_of_birth">Date of Birth : 22 Nov 2005</string>
+    <string name="_10">10</string>
+    <string name="distintion">Distintion</string>
+    <string name="passed">Passed</string>
+    <string name="nat_attented">Not attented</string>
+    <string name="_2">2</string>
+    <string name="_8">8</string>
+    <string name="image">person image</string>
+    <string name="add_child">Add child</string>
+</resources>
