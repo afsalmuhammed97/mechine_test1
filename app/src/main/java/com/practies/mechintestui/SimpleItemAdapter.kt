@@ -4,7 +4,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.practies.mechintestui.databinding.RecyclerViewItemBinding
-import com.practies.mechintestui.databinding.SimpleItemBinding
 
 class SimpleItemAdapter(val list:List<Int>):RecyclerView.Adapter<SimpleItemAdapter.ItemHolder>() {
     class ItemHolder( val binding:RecyclerViewItemBinding):RecyclerView.ViewHolder(binding.root)
